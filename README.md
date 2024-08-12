@@ -3,8 +3,8 @@
 [![Bytewax User Guide](https://img.shields.io/badge/user-guide-brightgreen?style=flat-square)](https://docs.bytewax.io/stable/guide/index.html)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bytewax/bytewax/assets/53014647/cd47293b-72c9-423c-b010-2c4990206c60" width="350">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/bytewax/bytewax/assets/53014647/f376c9e8-5bd4-4563-ba40-3df8761b13fc" width="350">
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/6073079/195393689-7334098b-a8cd-4aaa-8791-e4556c25713e.png" width="350">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/6073079/194626697-425ade3d-3d72-4b4c-928e-47bad174a376.png" width="350">
   <img alt="Bytewax">
 </picture>
 
