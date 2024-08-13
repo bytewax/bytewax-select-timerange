@@ -1,6 +1,6 @@
 [project]
 name = "bytewax-select-timerange"
-version = "0.0.1"
+version = "0.1"
 description = "A short description of the premium module."
 readme = "README.md"
 requires-python = ">=3.9"
