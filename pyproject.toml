@@ -1,7 +1,7 @@
 [project]
 name = "bytewax-select-timerange"
 version = "0.1"
-description = "A short description of the premium module."
+description = "Operators for Bytewax to query built-up state."
 readme = "README.md"
 requires-python = ">=3.9"
 license = {file = "LICENSE.md"}

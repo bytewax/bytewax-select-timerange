@@ -10,9 +10,12 @@
 
 ## Bytewax Select Timerange
 
-* TODO: Add project documentation
+The `select_time_range` operator usually has two inputs. One should
+be a stream of updated data, the other should be a "query stream"
+which contains a stream of queries for that data. The output of
+the operator will be the result of each query.
 
-## Setting up the project
+## Setting up the project for development
 
 ### Install `just`
 
