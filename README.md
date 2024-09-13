@@ -87,4 +87,8 @@ Activate your development environment and run the development task:
 
 ## License
 
-Bytewax Select Timerange is commercially licensed with publicly available source code. Please see the full details in [LICENSE](./LICENSE.md).
+`bytewax-select-timerange` is commercially licensed with publicly
+available source code. You are welcome to prototype using this module
+for free, but any use on business data requires a paid license. See
+https://modules.bytewax.io/ for a license. Please see the full details
+in [LICENSE](./LICENSE.md).
